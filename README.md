@@ -2,7 +2,7 @@
 
 ## Personal projects
 - [homepage](https://github.com/LoLei/lolei.github.io)
-- [razer-x-color](https://github.com/LoLei/razer-x-color)
+- [razer-cli](https://github.com/LoLei/razer-cli)
 - [dotfiles](https://github.com/LoLei/dotfiles)
 - [hl2-counter](https://github.com/LoLei/hl2-counter)
 - [got-counter](https://github.com/LoLei/got-counter)
