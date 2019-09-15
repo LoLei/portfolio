@@ -14,5 +14,5 @@ Selected projects on which I've worked
 
 ## Open-source projects
 #### (to which I've contributed)
-- [rtv](https://github.com/michael-lazar/rtv)
 - [pywal](https://github.com/dylanaraps/pywal)
+- [rtv](https://github.com/michael-lazar/rtv)
