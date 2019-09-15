@@ -1,4 +1,5 @@
 # Portfolio
+Selected projects on which I've worked
 
 ## Personal projects
 - [homepage](https://github.com/LoLei/lolei.github.io)
@@ -11,6 +12,7 @@
 - [Birb game](https://birbgame.itch.io/birb)
 - [XP Android app](https://github.com/LoLei/sw-ss16)
 
-## Open-source projects to which I've contributed
+## Open-source projects
+#### (to which I've contributed)
 - [rtv](https://github.com/michael-lazar/rtv)
 - [pywal](https://github.com/dylanaraps/pywal)
