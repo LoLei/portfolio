@@ -9,7 +9,7 @@ Selected projects on which I've worked
 - [got-counter](https://github.com/LoLei/got-counter)
 
 ## School projects
-- [Birb game](https://birbgame.itch.io/birb)
+- [Birb game](https://tulsd.itch.io/birb)
 - [Asymmetrical VR multiplayer](https://tulsd.itch.io/gdd2)
 - [XP Android app](https://github.com/LoLei/sw-ss16)
 
