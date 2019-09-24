@@ -10,9 +10,10 @@ Selected projects on which I've worked
 
 ## School projects
 - [Birb game](https://birbgame.itch.io/birb)
+- [Asymmetrical VR multiplayer](https://tulsd.itch.io/gdd2)
 - [XP Android app](https://github.com/LoLei/sw-ss16)
 
-## Open-source projects
-#### (to which I've contributed)
+## Open-source contributions
 - [pywal](https://github.com/dylanaraps/pywal)
 - [rtv](https://github.com/michael-lazar/rtv)
+- [Chameleon](https://github.com/GideonWolfe/Chameleon)
