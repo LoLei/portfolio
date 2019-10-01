@@ -16,4 +16,4 @@ Selected projects on which I've worked
 ## Open-source contributions
 - [pywal](https://github.com/dylanaraps/pywal)
 - [rtv](https://github.com/michael-lazar/rtv)
-- [Chameleon](https://github.com/GideonWolfe/Chameleon)
+- Several others - check my [GitHub profile](https://github.com/LoLei)
