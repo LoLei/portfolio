@@ -13,6 +13,8 @@ Selected projects on which I've worked
 - [Birb game](https://tulsd.itch.io/birb)
 - [Asymmetrical VR multiplayer](https://tulsd.itch.io/gdd2)
 - [XP Android app](https://github.com/LoLei/sw-ss16)
+- [Yet Another Content Auditor](https://github.com/LoLei/YACA)
+- [Yet Another Site Mapper](https://github.com/LoLei/YASM)
 
 ## Open-source contributions
 - [pywal](https://github.com/dylanaraps/pywal)
