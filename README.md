@@ -16,6 +16,7 @@ Selected projects on which I've worked
 - [XP Android app](https://github.com/LoLei/sw-ss16)
 - [Yet Another Content Auditor](https://github.com/LoLei/YACA)
 - [Yet Another Site Mapper](https://github.com/LoLei/YASM)
+- [Design Patterns Examples](https://github.com/LoLei/design-patterns-examples)
 
 ## Open-source contributions
 - [pywal](https://github.com/dylanaraps/pywal)
