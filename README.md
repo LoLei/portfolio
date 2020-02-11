@@ -5,6 +5,7 @@ Selected projects on which I've worked
 - [homepage](https://github.com/LoLei/lolei.github.io)
 - [razer-cli](https://github.com/LoLei/razer-cli)
 - [gryibwc](https://github.com/LoLei/gryibwc)
+- [tug-overlap-checker](https://github.com/LoLei/tug-overlap-checker)
 - [dotfiles](https://github.com/LoLei/dotfiles)
 - [hl2-counter](https://github.com/LoLei/hl2-counter)
 - [got-counter](https://github.com/LoLei/got-counter)
