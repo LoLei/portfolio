@@ -21,4 +21,5 @@ Selected projects on which I've worked
 ## Open-source contributions
 - [pywal](https://github.com/dylanaraps/pywal)
 - [rtv](https://github.com/michael-lazar/rtv)
+- [Hacktoberfest 2019](https://hacktoberfest.digitalocean.com)
 - Several others - check my [GitHub profile](https://github.com/LoLei)
