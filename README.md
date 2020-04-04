@@ -7,6 +7,7 @@ Selected projects on which I've worked
 - [gryibwc](https://github.com/LoLei/gryibwc)
 - [tug-overlap-checker](https://github.com/LoLei/tug-overlap-checker)
 - [toc-web](https://github.com/LoLei/toc-web)
+- [authorfix](https://github.com/LoLei/authorfix)
 - [dotfiles](https://github.com/LoLei/dotfiles)
 - [hl2-counter](https://github.com/LoLei/hl2-counter)
 - [got-counter](https://github.com/LoLei/got-counter)
@@ -18,6 +19,7 @@ Selected projects on which I've worked
 - [Yet Another Content Auditor](https://github.com/LoLei/YACA)
 - [Yet Another Site Mapper](https://github.com/LoLei/YASM)
 - [Design Patterns Examples](https://github.com/LoLei/design-patterns-examples)
+- [Kurve](https://github.com/tulsd/kurve)
 
 ## Open-source contributions
 - [pywal](https://github.com/dylanaraps/pywal)
