@@ -15,7 +15,7 @@ Selected projects on which I've worked
 ## School projects
 - [Birb game](https://tulsd.itch.io/birb) - 3D single-player bird flying game
 - [Asymmetrical VR multiplayer](https://tulsd.itch.io/gdd2) - 3D asymmetrical VR multiplayer game
-- [XP Android app](https://github.com/LoLei/sw-ss16) - Android app developed using Extremme Programing practices
+- [XP Android app](https://github.com/LoLei/sw-ss16) - Android app developed using Extreme Programing practices
 - [Yet Another Content Auditor](https://github.com/LoLei/YACA) - Content audit generator
 - [Yet Another Site Mapper](https://github.com/LoLei/YASM) - Site map generator
 - [Design Patterns Examples](https://github.com/LoLei/design-patterns-examples) - Implementations of design patterns
