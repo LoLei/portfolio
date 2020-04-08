@@ -13,8 +13,8 @@ Selected projects on which I've worked
 - [got-counter](https://github.com/LoLei/got-counter) - Same for last "A Song of Ice and Fire" book
 
 ## School projects
-- [Birb game](https://tulsd.itch.io/birb) - 3D single-player bird flying game
-- [Asymmetrical VR multiplayer](https://tulsd.itch.io/gdd2) - 3D asymmetrical VR multiplayer game
+- [Birb](https://tulsd.itch.io/birb) - 3D single-player bird flying game
+- [Vandalizing chevalieR](https://tulsd.itch.io/gdd2) - 3D asymmetrical VR multiplayer game
 - [XP Android app](https://github.com/LoLei/sw-ss16) - Android app developed using Extreme Programing practices
 - [Yet Another Content Auditor](https://github.com/LoLei/YACA) - Content audit generator
 - [Yet Another Site Mapper](https://github.com/LoLei/YASM) - Site map generator
