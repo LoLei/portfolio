@@ -9,6 +9,7 @@ Selected projects on which I've worked
 - [toc-web](https://github.com/LoLei/toc-web) - Web version of the above
 - [authorfix](https://github.com/LoLei/authorfix) - Fixing LaTeX BibTex citations
 - [redditcleaner](https://github.com/LoLei/redditcleaner) - Cleans Reddit text data
+- [ircbot](https://github.com/LoLei/ircbot) - Small IRC bot
 - [dotfiles](https://github.com/LoLei/dotfiles) - Linux configuration files, many convenience scripts
 - [hl2-counter](https://github.com/LoLei/hl2-counter) - Days passed since Half Life 2 was released
 - [got-counter](https://github.com/LoLei/got-counter) - Same for last "A Song of Ice and Fire" book
