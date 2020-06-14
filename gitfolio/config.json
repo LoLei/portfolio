@@ -1,0 +1,16 @@
+[
+ {
+  "username": "LoLei",
+  "name": "Lorenz Leitner",
+  "userimg": "https://avatars3.githubusercontent.com/u/9076894?v=4",
+  "sort": "star",
+  "order": "desc",
+  "includeFork": false,
+  "theme": "dark.css",
+  "types": [
+   "all"
+  ],
+  "twitter": "LoLei",
+  "linkedin": "lorenzleitner"
+ }
+]
