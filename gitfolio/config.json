@@ -8,9 +8,11 @@
   "includeFork": false,
   "theme": "dark.css",
   "types": [
-   "all"
+   "owner"
   ],
-  "twitter": "LoLei",
-  "linkedin": "lorenzleitner"
+  "twitter": "LorenzLeitner",
+  "linkedin": "lorenzleitner",
+  "medium": null,
+  "dribbble": null
  }
 ]
