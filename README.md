@@ -11,6 +11,7 @@ Selected projects on which I've worked
 - [redditcleaner](https://github.com/LoLei/redditcleaner) - Cleans Reddit text data
 - [spmf-py](https://github.com/LoLei/spmf-py) - Python wrapper for the SPMF data mining library
 - [ircbot](https://github.com/LoLei/ircbot) - Small IRC bot
+- [pycolorpicker](https://github.com/LoLei/pycolorpicker) - Simple command line color picker
 - [dotfiles](https://github.com/LoLei/dotfiles) - Linux configuration files, many convenience scripts
 - [hl2-counter](https://github.com/LoLei/hl2-counter) - Days passed since Half Life 2 was released
 - [got-counter](https://github.com/LoLei/got-counter) - Same for last "A Song of Ice and Fire" book
