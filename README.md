@@ -23,7 +23,7 @@ Selected projects on which I've worked
 - [XP Android app](https://github.com/LoLei/sw-ss16) - Android app developed using Extreme Programing practices
 - [Yet Another Content Auditor](https://github.com/LoLei/YACA) - Content audit generator
 - [Yet Another Site Mapper](https://github.com/LoLei/YASM) - Site map generator
-- [Design Patterns Examples](https://github.com/LoLei/design-patterns-examples) - Implementations of design patterns
+- [Design Patterns Examples](https://github.com/LoLei/design-patterns-examples) - Implementations of design patterns in different languages
 - [Kurve](https://github.com/tulsd/kurve) - Curve Fever browser multiplayer game
 
 ## Open-Source Contributions
