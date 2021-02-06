@@ -28,9 +28,10 @@ Selected projects on which I've worked
 - [Kurve](https://github.com/tulsd/kurve) - Curve Fever browser multiplayer game
 
 ## Open-Source Contributions
-- [pywal](https://github.com/dylanaraps/pywal)
-- [rtv](https://github.com/michael-lazar/rtv)
-- [Hacktoberfest 2019](https://hacktoberfest.digitalocean.com)
+- [lmrdashboard](https://github.com/r-lmr/lmrdashboard) - Live IRC channel information
+- [pywal](https://github.com/dylanaraps/pywal) - Color scheme generator/changer
+- [rtv](https://github.com/michael-lazar/rtv) - Reddit terminal viewer
+- [Hacktoberfest 2019/20](https://hacktoberfest.digitalocean.com)
 - Several others - check forks on my [GitHub profile](https://github.com/LoLei)
 
 ## Fancy List
