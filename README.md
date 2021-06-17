@@ -31,6 +31,7 @@ Selected projects on which I've worked
 - [lmrdashboard](https://github.com/r-lmr/lmrdashboard) - Live IRC channel information
 - [pastor](https://gitlab.com/cocainefarm/pastor) - Rust curl and GUI file hosting webserver
 - [pywal](https://github.com/dylanaraps/pywal) - Color scheme generator/changer
+- [birch](https://github.com/dylanaraps/birch) - An IRC client written in bash
 - [rtv](https://github.com/michael-lazar/rtv) - Reddit terminal viewer
 - [Hacktoberfest 2019/20](https://hacktoberfest.digitalocean.com)
 - Several others - check forks on my [GitHub profile](https://github.com/LoLei)
