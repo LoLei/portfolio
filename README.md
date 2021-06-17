@@ -29,6 +29,7 @@ Selected projects on which I've worked
 
 ## Open-Source Contributions
 - [lmrdashboard](https://github.com/r-lmr/lmrdashboard) - Live IRC channel information
+- [pastor](https://gitlab.com/cocainefarm/pastor) - Rust curl and GUI file hosting webserver
 - [pywal](https://github.com/dylanaraps/pywal) - Color scheme generator/changer
 - [rtv](https://github.com/michael-lazar/rtv) - Reddit terminal viewer
 - [Hacktoberfest 2019/20](https://hacktoberfest.digitalocean.com)
