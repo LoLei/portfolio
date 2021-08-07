@@ -2,7 +2,9 @@
 Selected projects on which I've worked
 
 ## Personal Projects
-- [homepage](https://github.com/LoLei/lolei.github.io) - Personal website
+- [homepage (old)](https://github.com/LoLei/lolei.github.io) - Personal website (old)
+- [homepage (new)](https://github.com/LoLei/homepage) - Personal website (2021)
+- [k8s-dashboard](https://github.com/LoLei/k8s-dashboard) - Kubernetes Dashboard
 - [razer-cli](https://github.com/LoLei/razer-cli) - Command line interface for Razer devices
 - [gryibwc](https://github.com/LoLei/gryibwc) - Goodreads yearly word count stats
 - [tug-overlap-checker](https://github.com/LoLei/tug-overlap-checker) - Class times overlap checker
