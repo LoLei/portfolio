@@ -35,7 +35,7 @@ Selected projects on which I've worked
 - [pywal](https://github.com/dylanaraps/pywal) - Color scheme generator/changer
 - [birch](https://github.com/dylanaraps/birch) - An IRC client written in bash
 - [rtv](https://github.com/michael-lazar/rtv) - Reddit terminal viewer
-- [Hacktoberfest 2019/20](https://hacktoberfest.digitalocean.com)
+- [Hacktoberfest 2019/20/21](https://hacktoberfest.digitalocean.com)
 - Several others - check forks on my [GitHub profile](https://github.com/LoLei)
 
 ## Fancy List
