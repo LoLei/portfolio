@@ -20,6 +20,7 @@ Selected projects on which I've worked
 - [hl2-counter](https://github.com/LoLei/hl2-counter) - Days passed since Half Life 2 was released
 - [got-counter](https://github.com/LoLei/got-counter) - Same for last "A Song of Ice and Fire" book
 - [countdown-generator](https://github.com/LoLei/countdown-generator) - Create, save, and share countdowns/timers
+- [home-remote](https://github.com/LoLei/home-remote) - Control media from your phone (on Linux)
 
 ## School Projects
 - [Birb](https://tulsd.itch.io/birb) - 3D single-player bird flying game
